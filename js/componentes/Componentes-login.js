@@ -1,6 +1,6 @@
 export let nav = document.getElementById('navUl')
 nav.innerHTML = 
-'<li>'+ '<a class="bt_Inicio" href="formulario.html">'+ 'Iniciar sesión'  +  '</a>'+ '</li>'
+'<li>'+ '<a class="bt_Inicio" href="index.html">'+ 'Iniciar sesión'  +  '</a>'+ '</li>'
 +'<li>'+ '<a class="bt_Registro" href="registro.html">'+ 'Registrarse'     +  '</a>'+ '</li>';
 
 export let form = document.getElementById('iniciaFormu');

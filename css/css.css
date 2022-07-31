@@ -298,7 +298,7 @@ nav{
 .opcionOrder{
     margin-top: 20px;
     width: 33rem;
-    height: 27rem;
+    height: auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
